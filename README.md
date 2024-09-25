@@ -8,14 +8,21 @@ Abstract. This project involves the development and deployment of a Python-based
 # Imports
 
 tkinter: for creating a GUI popup on screen
+
 pynput.keyboard: for capturing keystrokes
+
 logging: for creating logs files
+
 os: for interacting with the host OS (Windows)
+
 getpass/uuid/socket: get host information
+
 threading: executing processes in unique threads
+
 subprocess: running system commands
 
 ![Screenshot 2024-09-24 211424](https://github.com/user-attachments/assets/e80b61fc-b053-440d-8793-a5277e8a5e93)
+
 _Figure 1.1: Imports from python libraries_
 
 # Setup
