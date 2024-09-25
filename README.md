@@ -46,6 +46,7 @@ The program will begin listening for keystrokes and writing them to a temporary 
 
 ![Screenshot 2024-09-24 211521](https://github.com/user-attachments/assets/803a582a-8183-4f01-a714-15c3ec7138cd)
 ![Screenshot 2024-09-24 211531](https://github.com/user-attachments/assets/4b3e3c3c-c432-4b40-848a-b8d5ca9c1927)
+
 _Figure 1.4: Main functions and loop_
 
 # Part II: Executable compile
