@@ -77,17 +77,21 @@ _Figure 3.3: click “here” redirected to download page, executable ran_
 Now the executable is installed and successfully running on the victim machine. The keylogger is running in the background, recording keystrokes and periodically sending the captured data to a specified email address.
 
 <img width="1202" alt="Screenshot 2024-09-25 at 10 10 49 AM" src="https://github.com/user-attachments/assets/d678106c-b387-4101-b64f-ee1fc29f3d2d">
+
 _Figure 3.4: host information_
 
 ![Screenshot 2024-09-25 100742](https://github.com/user-attachments/assets/b8e01c3c-8053-4caf-b348-bdb74f11fab8)
 <img width="1206" alt="Screenshot 2024-09-25 at 10 11 22 AM" src="https://github.com/user-attachments/assets/5d62febd-926b-4cf4-baa7-6fc662b9ab3f">
+
 _Figure 3.5: “how to make the perfect steak” was searched, keystrokes logged and sent it email_
 
 ![Screenshot 2024-09-25 100730](https://github.com/user-attachments/assets/49d59b7a-a58e-472b-a907-cde9aec6ea31)
 <img width="1206" alt="Screenshot 2024-09-25 at 10 12 36 AM" src="https://github.com/user-attachments/assets/f54bef71-edd2-4a2c-ab8b-805a2f017278">
+
 _Figure 3.6: “how many days until Halloween” was searched, keystrokes logged and sent it email_
 
 ![Screenshot 2024-09-25 113912 (1)](https://github.com/user-attachments/assets/cf8faa1a-130a-4221-b224-4a39b153bf8a)
+
 _Figure 3.7: right ctrl key was pressed, programed successfully terminated_
 
 
